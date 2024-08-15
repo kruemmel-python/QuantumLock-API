@@ -138,7 +138,7 @@ QuantumLock ist unter der [MIT-Lizenz](LICENSE) lizenziert.
 
 ## Kontakt
 
-Für Fragen oder Unterstützung wenden Sie sich bitte an [support@quantumlock.com](mailto:support@quantumlock.com).
+Für Fragen oder Unterstützung wenden Sie sich bitte an [ralf.kruemmel+python@outlook.de](mailto:ralf.kruemmel+python@outlook.de).
 
 ---
 
