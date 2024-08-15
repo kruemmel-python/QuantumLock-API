@@ -1,6 +1,4 @@
-Verstanden! Hier ist die erweiterte `README.md`, die den Namen **QuantumLock** aufgreift und erklärt, sowie alle relevanten Informationen zu Sicherheit und Verschlüsselung enthält:
 
-```markdown
 # QuantumLock API
 
 Willkommen zur **QuantumLock API**! Diese API bietet umfassende Funktionen zum Schutz und zur Verschlüsselung von Daten. QuantumLock ist darauf ausgelegt, höchste Sicherheitsstandards zu erfüllen und eine robuste Schutzschicht für Ihre sensiblen Informationen bereitzustellen.
@@ -147,4 +145,3 @@ Für Fragen oder Unterstützung wenden Sie sich bitte an [support@quantumlock.co
 Vielen Dank, dass Sie sich für **QuantumLock** entschieden haben. Wir freuen uns auf Ihre Rückmeldungen und wünschen Ihnen viel Erfolg bei der Integration unserer API in Ihre Anwendungen!
 ```
 
-Diese `README.md` sollte nun alle relevanten Informationen enthalten, einschließlich der Einzigartigkeit der API und der Bedeutung des Namens **QuantumLock**.
