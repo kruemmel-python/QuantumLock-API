@@ -1,0 +1,5 @@
+cryptography
+pqcrypto
+bcrypt
+numpy
+mysql-connector-python
